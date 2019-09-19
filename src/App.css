@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'NeoRetroDraw';
+font-style: normal;
+font-weight: normal;
+src: local('NeoRetroDraw'), url('NEORD___.woff') format('woff');
+}
+
+h1{
+  font-family: 'NeoRetroDraw';
+  font-weight: 200;
+  color:#0ccac4;
+}
